@@ -1,3 +1,3 @@
 # Checklist de Endosso – Puro.Earth
 
-App interativo com rastreabilidade de progresso e observações por tarefa.
+App interativo para acompanhamento do processo de endosso de tecnologias no padrão Puro.Earth.
